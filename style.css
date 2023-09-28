@@ -1,0 +1,37 @@
+section{
+    background-color: rgb(70, 186, 182);
+    width: 52%;
+    height: 300px;
+    margin: 140px;
+    margin-left: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px black;
+}
+img{
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    margin-left: 25px;
+    margin-top: 25px;
+    box-shadow: 0 0 10px black;
+}
+ .col-6 button{
+    background-color: rgba(56, 88, 89, 0.213);
+    border-radius: 9px;
+    margin-top: 10px;
+}
+#PSW,#PSW1{
+    background-color: rgb(159, 196, 197);
+    margin: 10px;
+    border-radius: 7px;
+    
+}
+.col-6 h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+#WE{
+    padding-left: 40px;
+}
